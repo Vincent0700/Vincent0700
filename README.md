@@ -18,5 +18,20 @@
 [![](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wang.yuanqiu007@gmail.com)](mailto:wang.yuanqiu007@gmail.com)
 [![](https://img.shields.io/badge/-Telegram-673ab7?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/Vincent0700)](https://t.me/Vincent0700)
 
+### 📋 Task Lists
+
+<details>
+  <summary>Translation work</summary>
+  
+  - [x] [Understanding the ECMAScript spec, part 1](https://v8.js.cn/blog/understanding-ecmascript-part-1/)
+  - [ ] [Understanding the ECMAScript spec, part 2](https://v8.js.cn/blog/understanding-ecmascript-part-2/)
+  - [ ] [Understanding the ECMAScript spec, part 3](https://v8.js.cn/blog/understanding-ecmascript-part-3/)
+  - [ ] [Understanding the ECMAScript spec, part 4](https://v8.js.cn/blog/understanding-ecmascript-part-4/)
+  - [ ] [What’s in that .wasm? Introducing: wasm-decompile](https://v8.js.cn/blog/wasm-decompile/)
+  </ul>
+</details>
+
+---
 
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api/?username=Vincent0700&show_icons=true&hide=["prs"])
+
