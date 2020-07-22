@@ -25,7 +25,7 @@
   - [ ] [Understanding the ECMAScript spec, part 2](https://v8.js.cn/blog/understanding-ecmascript-part-2/)
   - [ ] [Understanding the ECMAScript spec, part 3](https://v8.js.cn/blog/understanding-ecmascript-part-3/)
   - [ ] [Understanding the ECMAScript spec, part 4](https://v8.js.cn/blog/understanding-ecmascript-part-4/)
-  - [ ] [What’s in that .wasm? Introducing: wasm-decompile](https://v8.js.cn/blog/wasm-decompile/)
+  - [x] [What’s in that .wasm? Introducing: wasm-decompile](https://v8.js.cn/blog/wasm-decompile/)
   </ul>
 </details>
 
