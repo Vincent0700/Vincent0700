@@ -21,12 +21,9 @@
 <details>
   <summary>Translation work</summary>
   
-  - [x] [Understanding the ECMAScript spec, part 1](https://v8.js.cn/blog/understanding-ecmascript-part-1/)
-  - [ ] [Understanding the ECMAScript spec, part 2](https://v8.js.cn/blog/understanding-ecmascript-part-2/)
-  - [ ] [Understanding the ECMAScript spec, part 3](https://v8.js.cn/blog/understanding-ecmascript-part-3/)
-  - [ ] [Understanding the ECMAScript spec, part 4](https://v8.js.cn/blog/understanding-ecmascript-part-4/)
+  - [x] [Understanding the ECMAScript spec, part 1](https://v8.js.cn/blog/understanding-ecmascript-part-1/)understanding-ecmascript-part-4/)
   - [x] [What’s in that .wasm? Introducing: wasm-decompile](https://v8.js.cn/blog/wasm-decompile/)
-  </ul>
+
 </details>
 
 ### 🙋 Github Stats
