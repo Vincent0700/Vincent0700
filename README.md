@@ -11,33 +11,13 @@
 
 - 👨  I'm a Front-end Developer.
 - 🏢  I'm currently working at **Xiaomi** in **Nanjing**.
-- 🌱  I'm currently learning **V8**.
 - ⚙️  I use daily: **VanillaJS**, **Vue**, **Webpack**, **Node**.
 - ⚡  Languages: **Javascript**, **Python**, **Bash**.
 - 💜  Hobbies: **Arduino**, **Guitar**, **Foodie**.
-
-### 📋 Task Lists
-
-<details>
-  <summary>Translation work</summary>
-  
-  - [x] [Understanding the ECMAScript spec, part 1](https://v8.js.cn/blog/understanding-ecmascript-part-1/)understanding-ecmascript-part-4/)
-  - [x] [What’s in that .wasm? Introducing: wasm-decompile](https://v8.js.cn/blog/wasm-decompile/)
-
-</details>
-
 ### 🙋 Github Stats
 
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api/?username=Vincent0700&show_icons=true&hide_title=true&theme=gruvbox)
 
 ### 📊 Weekly DevTime
 
-<!--START_SECTION:waka-->
-```text
-Vue.js       12 hrs 54 mins  ████████████░░░░░░░░░░░░░   50.05 % 
-JavaScript   12 hrs 16 mins  ████████████░░░░░░░░░░░░░   47.58 % 
-SCSS         29 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-HTML         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Markdown     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-```
-<!--END_SECTION:waka-->
+![Vincent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vincent0700&layout=compact&theme=gruvbox)
