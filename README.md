@@ -17,8 +17,8 @@
 - 💜  Hobbies: **Arduino**, **Guitar**, **Foodie**.
 ### 🙋 Github Stats
 
-![Vincent's github stats](https://github-readme-stats.vercel.app/api/?username=Vincent0700&show_icons=true&hide_title=true&theme=gruvbox)
+![Vincent's github stats](https://github-readme-stats.vercel.app/api/?username=Vincent0700&show_icons=true&hide_title=true&theme=tokyonight)
 
 ### 📊 Weekly DevTime
 
-![Vincent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vincent0700&layout=compact&theme=gruvbox)
+![Vincent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vincent0700&layout=compact&theme=tokyonight)
