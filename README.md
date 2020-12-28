@@ -15,10 +15,10 @@
 - ⚙️  I use daily: **VanillaJS**, **Vue**, **Webpack**, **Node**.
 - ⚡  Languages: **Javascript**, **Python**, **Bash**.
 - 💜  Hobbies: **Arduino**, **Guitar**, **Foodie**.
-### 🙋  Github Stats
+### 🙋 Github Stats
 
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api/?username=Vincent0700&show_icons=true&hide_title=true&theme=tokyonight)
 
-### 📊  Weekly DevTime
+### 🦋 Weekly DevTime
 
 ![Vincent's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vincent0700&layout=compact&theme=tokyonight)
