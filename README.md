@@ -12,9 +12,8 @@
 ### 🧐  About Me
 
 - 👨  I'm a Front-end Developer.
-- 🏢  I'm currently working at **Bytedance** in **Nanjing**.
-- ⚙️  I use daily: **VanillaJS**, **Vue**, **Webpack**, **Node**.
-- ⚡  Languages: **Javascript**, **Python**, **Bash**.
+- 🏢  I'm currently working at **js.design** in **Nanjing**.
+- ⚡  Languages: **Typescript**, **Python**, **Rust**, **A little C++**.
 - 💜  Hobbies: **Arduino**, **Guitar**, **Foodie**.
 ### 🙋 Github Stats
 
