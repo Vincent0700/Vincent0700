@@ -12,9 +12,9 @@
 ### 🧐  About Me
 
 - 👨  I'm a Front-end Developer.
-- 🏢  I'm currently working at **js.design** in **Nanjing**.
+- 🏢  I'm currently working in **Nanjing**.
 - ⚡  Languages: **Typescript**, **Python**, **Rust**, **A little C++**.
-- 💜  Hobbies: **Arduino**, **Guitar**, **Foodie**.
+- 💜  Hobbies: **Photography**, **Arduino**.
 ### 🙋 Github Stats
 
 ![Vincent's github stats](https://github-readme-stats.vercel.app/api/?username=Vincent0700&show_icons=true&hide_title=true&theme=tokyonight)
